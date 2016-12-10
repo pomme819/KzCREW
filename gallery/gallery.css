@@ -5,27 +5,40 @@
 gallery{
 	margin:500px 0 20px 0;
 	text-align:left;
-        gallery:#add8e6;
+    background:#add8e6;
 }
 
-ul.rec_box li{
+.photo{
+   width: 933px;
+   hight: 840px;
+   margin: 0 auto;
+}
+
+ul.rec_box_first li{
 	float:left;
 	margin:0 0 14px 14px;
 	width:153px;
 	border:#EEE solid 1px;
+	background: #98fb98;
+}
+ul.rec_box_second li{
+	float:left;
+	margin:0 0 14px 14px;
+	width:153px;
+	border:#EEE solid 1px;
+	background: #ffa500;
+}
+ul.rec_box_third li{
+	float:left;
+	margin:0 0 14px 14px;
+	width:153px;
+	border:#EEE solid 1px;
+	background:#e0ffff;
+	
 }
 
-
-ul.rec_box li h3 img{
-	widht:133px;
-	height:133px;
-	margin:10px;
-}
-
-ul.rec_box li p{
-	margin:0 10px 10px 10px;
-	line-height:1.5;
-	font-size:11px;
+.clear{
+	clear: both;
 }
 
 h3{
