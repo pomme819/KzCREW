@@ -1,0 +1,39 @@
+.sub-visual{
+     background:#ffc0cb;
+}
+
+gallery{
+	margin:500px 0 20px 0;
+	text-align:left;
+        gallery:#add8e6;
+}
+
+ul.rec_box li{
+	float:left;
+	margin:0 0 14px 14px;
+	width:153px;
+	border:#EEE solid 1px;
+}
+
+
+ul.rec_box li h3 img{
+	widht:133px;
+	height:133px;
+	margin:10px;
+}
+
+ul.rec_box li p{
+	margin:0 10px 10px 10px;
+	line-height:1.5;
+	font-size:11px;
+}
+
+h3{
+margin: 0px;
+    padding: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+}
+
+
