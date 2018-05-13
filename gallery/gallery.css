@@ -20,6 +20,8 @@ h1{
 /*.second{width:100%;display:flex;justify-content: center;padding:0;list-style: none;}*/
 .second{width:100%;display:flex;justify-content: left;padding:0;list-style: none;}
 .third{width:100%;display:flex;justify-content: center;padding:0;list-style: none;}
+.fourth{width:100%;display:flex;justify-content: left;padding:0;list-style: none;}
+.fifth{width:100%;display:flex;justify-content: left;padding:0;list-style: none;}
 
 
  /* margin: auto auto;
@@ -37,6 +39,7 @@ h1{
   text-align:center;
 }
 .second li{
+
   margin:0 0 14px 14px;
   width:153px;
   border:#EEE solid 1px;
@@ -50,6 +53,22 @@ h1{
   border:#EEE solid 1px;
   /*background:#e0ffff;*/
 	width:calc(100% / 5);margin:2px;
+  text-align:center;
+}
+.fourth li{
+  margin:0 0 14px 14px;
+  width:153px;
+  border:#EEE solid 1px;
+  /*background:#e0ffff;*/
+  width:calc(100% / 5);margin:2px;
+  text-align:center;
+}
+.fifth li{
+  margin:0 0 14px 14px;
+  width:153px;
+  border:#EEE solid 1px;
+  /*background:#e0ffff;*/
+  width:calc(100% / 5);margin:2px;
   text-align:center;
 }
 
